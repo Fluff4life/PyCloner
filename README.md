@@ -1,2 +1,2 @@
-# LuaCloner
+# PyCloner
 A simple discord server cloner.
