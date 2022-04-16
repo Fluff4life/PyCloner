@@ -3,12 +3,12 @@ A simple discord server cloner.
 
 
 
-+ Clone Channels
-+ Channel Permissions
-+ Server Roles
-+ Server Name
-+ Server Banner / Avatar
-+ Server Emojis
-+ Server Settings 
-- Server Messages
-- Server Members
++ Clone Channels YES
++ Channel Permissions YES
++ Server Roles YES
++ Server Name YES
++ Server Banner / Avatar YES
++ Server Emojis YES
++ Server Settings YES
+- Server Messages NO
+- Server Members NO
